@@ -1,0 +1,16 @@
+{
+  "name": "rda_array_methods",
+  "version": "1.0.0",
+  "description": "Array Methods Push,Pop,Shift,UnShift,Length,IndexOF,Slice,Splice",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
