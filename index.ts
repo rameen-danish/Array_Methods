@@ -83,7 +83,7 @@ It removes elements from an array and optionally replaces them with new elements
 
 
 /*7.length()
-This method can be used to find out the number of elements in an array */
+This method can be used to find out the number of elements in an array.*/
 // //          length:        1         2       3       4       5      6
 // let fruits : string[] = ["Apple","Banana","Mango","Peach","Cherry","Kiwi"];
 // console.log("Length of an Array = ",fruits.length);                     // length = 6 
